@@ -102,4 +102,4 @@ The project is envisioned as a dynamic resource:
 Licensing
 ---------
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the `LICENSE <https://github.com/RafaelKarcz/CovidSQL/blob/f31ed79d06209935edb632e9a3faebb6bab8bbbf/LICENSE>`_ file for details.
